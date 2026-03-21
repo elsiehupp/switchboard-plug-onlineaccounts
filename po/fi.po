@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: beat-box\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-10 16:57+0000\n"
-"PO-Revision-Date: 2024-12-02 12:16+0000\n"
+"PO-Revision-Date: 2026-03-22 16:55+0000\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
-"Language-Team: Finnish <https://l10n.elementary.io/projects/switchboard/"
-"switchboard-plug-onlineaccounts/fi/>\n"
+"Language-Team: Finnish <https://l10n.elementaryos.org/projects/settings/"
+"onlineaccounts/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 5.11.4\n"
 "X-Launchpad-Export-Date: 2017-01-06 06:13+0000\n"
 
 #: src/Dialogs/CaldavDialog.vala:47
@@ -225,26 +225,20 @@ msgid "Close"
 msgstr "Sulje"
 
 #: src/Widgets/FinalizePage.vala:94
-#, fuzzy
-#| msgid "Setting up the e-mail account…"
 msgid "Setting up the account…"
-msgstr "Määritetään sähköpostitiliä…"
+msgstr "Määritetään tiliä…"
 
 #: src/Widgets/FinalizePage.vala:122
 msgid "Ready to go"
-msgstr ""
+msgstr "Valmis"
 
 #: src/Widgets/FinalizePage.vala:123
-#, fuzzy
-#| msgid "CalDAV account saved."
 msgid "Account saved"
-msgstr "CalDAV-tili tallennettu."
+msgstr "Tili tallennettu"
 
 #: src/Widgets/FinalizePage.vala:137
-#, fuzzy
-#| msgid "Could not save the e-mail account"
 msgid "Could not save the account"
-msgstr "Sähköpostitiliä ei voitu tallentaa"
+msgstr "Tiliä ei voitu tallentaa"
 
 #~ msgid "Saving the configuration…"
 #~ msgstr "Tallennetaan asetuksia…"
