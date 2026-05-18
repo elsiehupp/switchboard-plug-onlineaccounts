@@ -8,17 +8,18 @@ msgstr ""
 "Project-Id-Version: switchboard-plug-onlineaccounts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-10 16:57+0000\n"
-"PO-Revision-Date: 2024-08-07 00:16+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
-"Language-Team: Serbian <https://l10n.elementary.io/projects/switchboard/"
-"switchboard-plug-onlineaccounts/sr/>\n"
+"PO-Revision-Date: 2026-05-18 13:32+0000\n"
+"Last-Translator: Automatic translation add-on <noreply-addon-"
+"autotranslate@weblate.org>\n"
+"Language-Team: Serbian <https://l10n.elementaryos.org/projects/settings/"
+"onlineaccounts/sr/>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 2026.5\n"
 "X-Launchpad-Export-Date: 2017-01-08 05:44+0000\n"
 
 #: src/Dialogs/CaldavDialog.vala:47
@@ -29,7 +30,7 @@ msgstr "Сервер"
 
 #: src/Dialogs/CaldavDialog.vala:51
 msgid "Invalid URL"
-msgstr ""
+msgstr "Неисправна адреса"
 
 #: src/Dialogs/CaldavDialog.vala:57
 msgid "User Name"
@@ -91,10 +92,8 @@ msgid "Username:"
 msgstr ""
 
 #: src/Dialogs/Imap/ImapDialog.vala:58 src/Dialogs/Imap/ImapDialog.vala:144
-#, fuzzy
-#| msgid "Password"
 msgid "Password:"
-msgstr "Лозинка"
+msgstr "Лозинка:"
 
 #: src/Dialogs/Imap/ImapDialog.vala:67 src/Dialogs/Imap/ImapDialog.vala:167
 #, fuzzy
@@ -104,7 +103,7 @@ msgstr "Сервер"
 
 #: src/Dialogs/Imap/ImapDialog.vala:80 src/Dialogs/Imap/ImapDialog.vala:176
 msgid "Port:"
-msgstr ""
+msgstr "Прикључник:"
 
 #: src/Dialogs/Imap/ImapDialog.vala:85
 msgid "Refresh Interval in Minutes:"
@@ -237,7 +236,7 @@ msgstr "Управљајте налозима на мрежи и повезан�
 
 #: src/Widgets/FinalizePage.vala:76
 msgid "Close"
-msgstr ""
+msgstr "Затвори"
 
 #: src/Widgets/FinalizePage.vala:94
 msgid "Setting up the account…"
